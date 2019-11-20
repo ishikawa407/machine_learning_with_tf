@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/ishikawa407/.cache/gnome-builder/install/Building-Machine-Learning-Projects-with-TensorFlow-master/host
+app-id=
+postbuild=
+prebuild=
+default=true
